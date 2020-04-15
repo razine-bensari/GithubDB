@@ -1,0 +1,3 @@
+The dataset is too big to be put in github (2.7 gb when compressed)
+
+Therefore, here is the link to download it from: http://ghtorrent-downloads.ewi.tudelft.nl/datasets/msr14-mongo.tar.gz
